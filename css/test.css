@@ -1,0 +1,9 @@
+h1 {
+    background: red;
+}
+
+.test-class {
+    font-display: inherit;
+    font-size: 900px;
+    color: black;
+}
